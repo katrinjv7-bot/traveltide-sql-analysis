@@ -34,12 +34,11 @@ und helfen, die Kundenbindung durch gezielte Segmente & Personalisierung zu stä
 
 ---
 
-## Nutzung
+## 🛠️ Nutzung
 
-1. Lade die Datei `TravelTide_queries_final.sql` herunter oder clone das Repository.
-2. Öffne die Datei in deiner SQL-Umgebung.
-3. Passe ggf. Tabellennamen oder Datenbank-Schema an deine Umgebung an.
-4. Führe die Queries aus.
+1. Die Datei `TravelTide_queries_final.sql` in einer PostgreSQL-Umgebung ausführen.
+2. Abfragen einzeln ausführen (sind durch Kommentare in 3 Blöcke getrennt).
+3. Ergebnisse können in Tableau oder Google Sheets visualisiert werden.
 
 ---
 
